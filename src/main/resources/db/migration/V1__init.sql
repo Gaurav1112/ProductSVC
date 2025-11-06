@@ -1,0 +1,2 @@
+-- Placeholder file so Flyway initializes successfully
+-- MongoDB migration logic is handled via MongoMigrationRunner.java
